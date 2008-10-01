@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: XRDS-Simple
-Plugin URI: http://singpolyma.net/plugins/xrds/
+Plugin URI: http://wordpress.org/extend/plugins/xrds-simple/
 Description: Provides framework for other plugins to advertise services via XRDS.
 Version: trunk
 Author: DiSo Development Team
