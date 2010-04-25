@@ -1,5 +1,5 @@
 === XRDS-Simple ===
-Contributors: singpolyma, wnorris
+Contributors: singpolyma, willnorris
 Tags: xrds, xrds-simple, discovery
 Requires at least: 2.1
 Tested up to: 2.6.0
